@@ -22,7 +22,7 @@ app.use(
       "http://localhost:5174",
       "http://localhost:3000",
       "http://127.0.0.1:5173",
-      "https://jersey-frontend-seven.vercel.app/", // Replace this
+      "https://jersey-frontend-seven.vercel.app", // Replace this
     ],
     credentials: true,
   })
